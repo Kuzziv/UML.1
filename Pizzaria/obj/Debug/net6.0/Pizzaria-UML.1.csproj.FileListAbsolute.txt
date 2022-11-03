@@ -1,0 +1,15 @@
+C:\Users\hifnh\OneDrive\Skrivebord\UML.1\Pizzaria\bin\Debug\net6.0\Pizzaria-UML.1.exe
+C:\Users\hifnh\OneDrive\Skrivebord\UML.1\Pizzaria\bin\Debug\net6.0\Pizzaria-UML.1.deps.json
+C:\Users\hifnh\OneDrive\Skrivebord\UML.1\Pizzaria\bin\Debug\net6.0\Pizzaria-UML.1.runtimeconfig.json
+C:\Users\hifnh\OneDrive\Skrivebord\UML.1\Pizzaria\bin\Debug\net6.0\Pizzaria-UML.1.dll
+C:\Users\hifnh\OneDrive\Skrivebord\UML.1\Pizzaria\bin\Debug\net6.0\Pizzaria-UML.1.pdb
+C:\Users\hifnh\OneDrive\Skrivebord\UML.1\Pizzaria\obj\Debug\net6.0\Pizzaria-UML.1.csproj.AssemblyReference.cache
+C:\Users\hifnh\OneDrive\Skrivebord\UML.1\Pizzaria\obj\Debug\net6.0\Pizzaria-UML.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hifnh\OneDrive\Skrivebord\UML.1\Pizzaria\obj\Debug\net6.0\Pizzaria-UML.1.AssemblyInfoInputs.cache
+C:\Users\hifnh\OneDrive\Skrivebord\UML.1\Pizzaria\obj\Debug\net6.0\Pizzaria-UML.1.AssemblyInfo.cs
+C:\Users\hifnh\OneDrive\Skrivebord\UML.1\Pizzaria\obj\Debug\net6.0\Pizzaria-UML.1.csproj.CoreCompileInputs.cache
+C:\Users\hifnh\OneDrive\Skrivebord\UML.1\Pizzaria\obj\Debug\net6.0\Pizzaria-UML.1.dll
+C:\Users\hifnh\OneDrive\Skrivebord\UML.1\Pizzaria\obj\Debug\net6.0\refint\Pizzaria-UML.1.dll
+C:\Users\hifnh\OneDrive\Skrivebord\UML.1\Pizzaria\obj\Debug\net6.0\Pizzaria-UML.1.pdb
+C:\Users\hifnh\OneDrive\Skrivebord\UML.1\Pizzaria\obj\Debug\net6.0\Pizzaria-UML.1.genruntimeconfig.cache
+C:\Users\hifnh\OneDrive\Skrivebord\UML.1\Pizzaria\obj\Debug\net6.0\ref\Pizzaria-UML.1.dll
